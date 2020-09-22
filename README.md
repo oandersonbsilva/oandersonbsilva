@@ -7,8 +7,10 @@
 - [x] Linux
 - [x] Html5
 - [x] CSS3
+- [x] Javascript
 
 <code><img height="30" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/1.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/2.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/4.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/5.png"></code>
