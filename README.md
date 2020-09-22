@@ -1,5 +1,5 @@
 # Anderson B Silva
-![Anderson github stats](https://github-readme-stats.vercel.app/api?username=oandersonbsilva&show_icons=true&theme=graywhite)
+![Anderson github stats](https://github-readme-stats.vercel.app/api?username=oandersonbsilva&show_icons=true&theme=dark)
 
 ### Tecnologias
 
@@ -16,4 +16,5 @@
 <code><img height="30" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/4.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/5.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/6.png"></code>
+
 
