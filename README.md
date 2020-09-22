@@ -18,4 +18,4 @@
 <code><img height="30" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/5.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/6.png"></code>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oandersonbsilva&layout=compact)](https://github.com/oandersonbsilva/github-readme-stats)
