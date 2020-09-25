@@ -1,7 +1,7 @@
 # Anderson B Silva
 
 ![Anderson github stats](https://github-readme-stats.vercel.app/api?username=oandersonbsilva&show_icons=true&theme=graywhite) 
-<code><img height="180" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/qrcode.png"></code>
+<code><img height="180" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/code.png"></code>
 
 ### Tecnologias
 
